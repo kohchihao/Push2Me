@@ -21,6 +21,7 @@ Building it on Telegram have of course multiple benefits
 - Inside the ``.env`` put these 2 stuff inside 
 
 ```
+PUSH2ME_BOT_TOKEN=your bot token
 PUSH2ME_WEBHOOK=your bot webhook 
 PUSH2ME_WEBHOOK_CALLBACK=your bot callback
 ```
